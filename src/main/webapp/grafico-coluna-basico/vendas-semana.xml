@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chart caption='Vendas da Semana'
+   xAxisName='Semana' yAxisName='Total' numberPrefix='R$'> 
+    <set label='Semana 1' value='14400' /> 
+    <set label='Semana 2' value='19600' /> 
+    <set label='Semana 3' value='24000' /> 
+    <set label='Semana 4' value='15700' /> 
+</chart>

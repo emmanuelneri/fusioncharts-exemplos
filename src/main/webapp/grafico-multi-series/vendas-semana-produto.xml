@@ -1,0 +1,22 @@
+<chart caption='Vendas da semana por produtos' xAxisName='Semana' yAxisName='Total' numberPrefix='R$'> 
+
+   <categories>
+      <category Label="Semana 1"/>
+      <category Label="Semana 2"/>
+      <category Label="Semana 3"/>
+      <category Label="Semana 4"/>
+   </categories>
+
+   <dataset seriesName="Produto A">
+       <set  value='14400' /> 
+       <set  value='19600' /> 
+       <set  value='24000' /> 
+       <set  value='15700' /> 
+   </dataset>
+   <dataset seriesName="Produto B"> 
+       <set  value='12000' /> 
+       <set  value='15000' /> 
+       <set  value='20000' /> 
+       <set  value='11000' /> 
+   </dataset>
+</chart>
